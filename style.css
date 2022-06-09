@@ -82,7 +82,7 @@ h1 {
 }
 .backround-card {
   background-color: #b3deef;
-  height: 140px;
+  height: 160px;
   width: 940px;
   z-index: 0;
   grid-column: 1/10;
