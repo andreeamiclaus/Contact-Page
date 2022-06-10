@@ -67,7 +67,7 @@ body {
   grid-column: 5/9;
   grid-row: 1/1;
   object-fit: cover;
-  background-image: url(https://images.pexels.com/photos/7394721/pexels-photo-7394721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-image: url(https://images.pexels.com/photos/6912818/pexels-photo-6912818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   width: 450px;
   height: 570px;
   z-index: 1;
@@ -75,9 +75,10 @@ body {
 .container .backround-card {
   grid-column: 1/10;
   grid-row: 1/1;
-  margin-top: 130px;
+  margin: 130px 20px 0 0;
+
   height: 160px;
-  width: 1000px;
+  width: 1050px;
   background-color: #b3deef;
   z-index: 0;
 }
