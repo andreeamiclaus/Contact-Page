@@ -34,7 +34,7 @@ body {
   width: 450px;
   height: 400px;
   background-color: white;
-  box-shadow: 5px 5px 50px 5px grey;
+  box-shadow: 0px 10px 20px 2px gray;
   z-index: 2;
 }
 .form-card .user-box {
