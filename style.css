@@ -19,7 +19,6 @@ body {
   grid-template-columns: repeat(10, 1fr);
   margin: 0 auto;
 }
-
 .container .form-card h1 {
   text-align: center;
   margin: 35px 0 20px 0;
@@ -38,16 +37,13 @@ body {
   box-shadow: 5px 5px 50px 5px grey;
   z-index: 2;
 }
-
 .form-card .user-box {
   margin: 10px 0 15px 30px;
   color: gray;
 }
-
 #textarea {
   margin-bottom: 70px;
 }
-
 .form-card .submit-wrapper {
   text-align: center;
   margin: 0 30px;
@@ -74,7 +70,6 @@ body {
   grid-column: 1/10;
   grid-row: 1/1;
   margin: 130px 20px 0 0;
-
   height: 160px;
   width: 1050px;
   background-color: #b3deef;
